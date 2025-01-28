@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexandrustefanescu" alt="alexandrustefanescu" /></a> </p>
 
-- 🔭 I’m currently working on [type-injector-lib-demo](https://github.com/type-injector/type-injector-lib-demo)
-
-- 🌱 I’m currently learning **backend**
-
 - 👨‍💻 All of my projects are available at [https://github.com/alexandrustefanescu](https://github.com/alexandrustefanescu)
 
 <h3 align="left">Connect with me:</h3>
